@@ -1,0 +1,4 @@
+face	a	b	c	d
+l1	a	b	c	d	a
+l2	a	c			
+l3	b	d		
